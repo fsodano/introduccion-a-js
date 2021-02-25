@@ -1,0 +1,11 @@
+.oculto{
+    display: none;
+}
+
+input{
+    margin: 5px;
+}
+
+button{
+    margin: 20px 0;
+}
